@@ -18,7 +18,7 @@ To get started with this project, follow the instructions below:
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/amitrajputtt/Cloned-Apple-Iphone-15-Launch.git
-    cd apple-website-clone
+    cd Cloned-Apple-Iphone-15-Launch
     ```
 
 2. **Install dependencies:**
